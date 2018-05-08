@@ -1,0 +1,17 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "creative programming II final",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adjectives": "^1.0.2",
+    "random-words": "^1.1.0",
+    "twit": "^2.2.9"
+  }
+}
